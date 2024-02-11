@@ -1,4 +1,4 @@
-# buslogs
+# Various Buslogs
 Collection of various vehicle network bus logs from different vehicle models, found on the internet.
 
 Including the .dbc file format specification.
