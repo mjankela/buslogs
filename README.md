@@ -1,6 +1,8 @@
 # buslogs
 Collection of various vehicle network bus logs from different vehicle models, found on the internet.
 
+Including the .dbc file format specification.
+
 # Links
 
 https://github.com/commaai/opendbc
